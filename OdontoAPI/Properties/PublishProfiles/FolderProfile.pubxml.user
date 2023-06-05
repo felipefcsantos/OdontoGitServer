@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\User\source\repos\OdontoAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-06-05T18:36:18.8244380Z;True|2023-06-05T15:35:48.7862664-03:00;True|2023-06-05T14:35:20.8434862-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
