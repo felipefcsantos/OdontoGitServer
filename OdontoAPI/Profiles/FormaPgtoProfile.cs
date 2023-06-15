@@ -10,5 +10,7 @@ public class FormaPgtoProfile : Profile
     {
         CreateMap<CreateFormaPgtoDto, FormaPgto>();
         CreateMap<UpdateFormaPgtoDto, FormaPgto>();
+        CreateMap<FormaPgto, UpdateFormaPgtoDto>();
+        CreateMap<FormaPgto, ReadFormaPgtoDto>().ForMember(formaPgtoDto => formaPgtoDto.Pagamentos, opt => opt.MapFrom(formapgto => formapgto.Pagamentos));
     }
 }

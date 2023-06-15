@@ -6,8 +6,12 @@ C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\OdontoAPI.run
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\OdontoAPI.pdb
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\AutoMapper.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Castle.Core.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
@@ -20,6 +24,8 @@ C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Ext
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Primitives.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\User\source\repos\OdontoAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
