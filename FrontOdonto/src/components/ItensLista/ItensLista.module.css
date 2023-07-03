@@ -1,0 +1,22 @@
+.container{
+    background: aliceblue;
+    border-radius: 5px;
+    margin: .2rem;
+    padding: .5rem;
+    text-align: center;
+}
+
+.input {
+    border-radius: 3px;
+    margin: 0 .4rem;
+    width: 8rem;
+}
+
+.container button{
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    height: 1.5rem;
+}

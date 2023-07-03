@@ -1,0 +1,15 @@
+.container{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+.container div{
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow:  2px 3px 7px 1px #000000;
+    font-size: 1.5rem;
+    padding: 2rem;
+    text-align: center;
+}

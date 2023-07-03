@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+.container div{
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow:  2px 3px 7px 1px #000000;
+    padding: 1rem 0 2rem 0;
+    width: 35rem;
+}
