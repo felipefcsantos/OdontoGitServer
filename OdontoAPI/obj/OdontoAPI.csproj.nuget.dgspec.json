@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\OdontoAPI\\OdontoAPI.csproj": {}
+    "/Users/felipesantos/Desktop/OdontoGitServer/OdontoGitServer/OdontoAPI/OdontoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\OdontoAPI\\OdontoAPI.csproj": {
+    "/Users/felipesantos/Desktop/OdontoGitServer/OdontoGitServer/OdontoAPI/OdontoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OdontoAPI\\OdontoAPI.csproj",
+        "projectUniqueName": "/Users/felipesantos/Desktop/OdontoGitServer/OdontoGitServer/OdontoAPI/OdontoAPI.csproj",
         "projectName": "OdontoAPI",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OdontoAPI\\OdontoAPI.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OdontoAPI\\obj\\",
+        "projectPath": "/Users/felipesantos/Desktop/OdontoGitServer/OdontoGitServer/OdontoAPI/OdontoAPI.csproj",
+        "packagesPath": "/Users/felipesantos/.nuget/packages/",
+        "outputPath": "/Users/felipesantos/Desktop/OdontoGitServer/OdontoGitServer/OdontoAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/felipesantos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\User\\Documents\\Pacotes": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

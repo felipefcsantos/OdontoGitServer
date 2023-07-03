@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{91620FAE-E010-4D9C-95E0-82181E9A9CE9}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OdontoAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FormaPgtoController.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Controllers/FormaPgtoController.cs" Line="36" Column="104" />
+      <File FileName="Profiles/FormaPgtoProfile.cs" Line="17" Column="1" />
+      <File FileName="Profiles/PagamentoProfile.cs" Line="1" Column="1" />
+      <File FileName="Data/DTOs/ReadPagamentoDto.cs" Line="1" Column="1" />
+      <File FileName="Models/Pagamento.cs" Line="14" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdontoAPI" expanded="True">
+            <Node name="OdontoAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FormaPgtoController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\OdontoAPI.props" />
+  <Import Project="../buildMultiTargeting/OdontoAPI.props" />
 </Project>

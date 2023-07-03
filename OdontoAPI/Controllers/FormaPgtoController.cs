@@ -33,7 +33,7 @@ public class FormaPgtoController : ControllerBase
     [HttpGet]
     public IEnumerable<ReadFormaPgtoDto> ListaFormaPgto([FromQuery] int skip = 0, [FromQuery] int take = 50)
     {
-        return _mapper.Map<List<ReadFormaPgtoDto>>(_context.FormaPgtos.Skip(skip).Take(take));
+        return _mapper.Map<List<ReadFormaPgtoDto>>(_context.FormaPgtos.Skip(skip).Take(take).ToList());
     }
     [HttpGet("{Ativo}")]
     public IEnumerable<ReadFormaPgtoDto> ListaFormaPgtoAtivos(Boolean Ativo, [FromQuery] int skip = 0, [FromQuery] int take = 50)
